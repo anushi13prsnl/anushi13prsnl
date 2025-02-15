@@ -1,4 +1,4 @@
-[![MasterHead](github-header-image.png)
+![MasterHead](github-header-image.png)
 
 # 💫 About Me:
 Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🔭 I’m currently working on personal projects <br><br>🌱 I’m currently exploring web Development and DSA with lil interest in AI world<br><br>👯 I’m looking to collaborate on with really sharp-minded individuals<br><br>💬 Ask me about react, MERN stack, Java n many more in progress...<br><br>📫 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>⚡ Fun fact I love connecting with people to learn & grow
