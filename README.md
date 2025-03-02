@@ -77,7 +77,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
            width="90%"/>
     </td>
     <td align="center">
-      <img src="https://counterapi.com/api/logo-anushi13prsnl?color=blue&label=Unique Visitors&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unique%20Profile%20Views-Not%20Supported-red?style=for-the-badge" />
     </td>
   </tr>
 </table>
