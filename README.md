@@ -66,7 +66,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 </p>
 
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="center"><h2>🏆 Top Contributed Repo</h2></td>
     <td align="center"><h2>👀 Unique Profile Views</h2></td>
@@ -77,7 +77,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
            width="90%"/>
     </td>
     <td align="center">
-      <img src="https://hits.sh/anushi13prsnl.svg?style=for-the-badge&label=Unique%20Visitors&color=blue"/>
+      <img src="https://counterapi.com/api/logo-anushi13prsnl?color=blue&label=Unique Visitors&style=for-the-badge"/>
     </td>
   </tr>
 </table>
