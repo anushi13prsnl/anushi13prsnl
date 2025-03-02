@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # About Me
-Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🔭 Currently working on expanding my skill-set <br><br>👯 Looking to collaborate with like-minded individuals<br><br>📫 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>
+Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🎯 Currently working on expanding my skill-set <br>🎯 Looking to collaborate with like-minded individuals<br>🎯 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>
 
 
 
@@ -66,22 +66,23 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 </p>
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td style="text-align: center; width: 50%;"><h2>🏆 Top Contributed Repo</h2></td>
-    <td style="text-align: center; width: 50%;"><h2>👀 Profile Views</h2></td>
+    <td align="center"><h2>🏆 Top Contributed Repo</h2></td>
+    <td align="center"><h2>👀 Unique Profile Views</h2></td>
   </tr>
   <tr>
-    <td style="text-align: center; width: 50%;">
+    <td align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=anushi13prsnl&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"
-           style="max-width: 100%;"/>
+           width="90%"/>
     </td>
-    <td style="text-align: center; width: 50%;">
-      <img src="https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge" 
-           style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); padding: 5px;"/>
+    <td align="center">
+      <img src="https://hits.sh/anushi13prsnl.svg?style=for-the-badge&label=Unique%20Visitors&color=blue"/>
     </td>
   </tr>
 </table>
+
+
 
 
 
