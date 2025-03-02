@@ -69,7 +69,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 <table width="100%" align="center">
   <tr>
     <td align="center"><h2>🏆 Top Contributed Repo</h2></td>
-    <td align="center"><h2>👀 Unique Profile Views</h2></td>
+    <td align="center"><h2>👀 Profile Views</h2></td>
   </tr>
   <tr>
     <td align="center">
@@ -77,7 +77,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
            width="90%"/>
     </td>
     <td align="center">
-<img src="https://img.shields.io/badge/Unique%20Profile%20Views-Not%20Supported-red?style=for-the-badge" />
+      <img src="https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge"/>
     </td>
   </tr>
 </table>
