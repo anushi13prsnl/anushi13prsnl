@@ -1,4 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="180px">
+</p>
+
 
 # About Me
 Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🎯 Currently working on expanding my skill-set <br>🎯 Looking to collaborate with like-minded individuals<br>🎯 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>
