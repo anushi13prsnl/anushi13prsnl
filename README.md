@@ -50,25 +50,38 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 
 
 
-### GitHub Stats
+## GitHub Stats
 <!--   ![](https://github-readme-stats.vercel.app/api?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>   -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushi13prsnl&theme=transparent&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
 <!--
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anushi13prsnl&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushi13prsnl&theme=transparent&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-# Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anushi13prsnl&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge)
+
+<table>
+  <tr>
+    <td><h2>🏆 Top Contributed Repo</h2></td>
+    <td><h2>👀 Profile Views</h2></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=anushi13prsnl&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"/>
+    </td>
+    <td align="center">
+      <img src="https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge" 
+           style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); padding: 5px;"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
