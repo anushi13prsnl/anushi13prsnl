@@ -69,7 +69,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 <table width="100%" align="center">
   <tr>
     <td align="center"><h2>🏆 Top Contributed Repo</h2></td>
-    <td align="center"><h2>👀 Profile Views <br> <h4>(Tracks All, Not Unique)</h4>  </h2></td>
+    <td align="center"><h2>👀 Profile Views </h2></td>
   </tr>
   <tr>
     <td align="center">
@@ -78,6 +78,7 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
     </td>
     <td align="center">
       <img src="https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge"/>
+      <br> <h4>(Tracks All, Not Unique)</h4>  
     </td>
   </tr>
 </table>
