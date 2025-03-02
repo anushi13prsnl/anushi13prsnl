@@ -1,12 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # About Me
-Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🔭 I’m currently working on personal projects <br><br>🌱 I’m currently exploring web Development and DSA with lil interest in AI world<br><br>👯 I’m looking to collaborate on with really sharp-minded individuals<br><br>💬 Ask me about react, MERN stack, Java n many more in progress...<br><br>📫 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>⚡ Fun fact I love connecting with people to learn & grow
+Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that tackle real-world challenges and enhance user experiences. <br>I enjoy experimenting with new technologies, optimizing code efficiency, and contributing to meaningful projects. <br>Always eager to learn, collaborate, and innovate! 🚀<br><br>🔭 Currently working on expanding my skill-set <br><br>👯 Looking to collaborate with like-minded individuals<br><br>📫 How to reach me https://www.linkedin.com/in/anushirajput/<br><br>
 
-
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushirajput) 
 
 
 
@@ -15,13 +11,16 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 
 
 ### GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anushi13prsnl&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--   ![](https://github-readme-stats.vercel.app/api?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>   -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushi13prsnl&theme=transparent&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushi13prsnl&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
+<!--
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anushi13prsnl&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
-
+-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
