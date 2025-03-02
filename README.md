@@ -66,21 +66,23 @@ Hey, I'm Anushi, upcoming software engineer!<br>I love building projects that ta
 </p>
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td><h2>🏆 Top Contributed Repo</h2></td>
-    <td><h2>👀 Profile Views</h2></td>
+    <td style="text-align: center; width: 50%;"><h2>🏆 Top Contributed Repo</h2></td>
+    <td style="text-align: center; width: 50%;"><h2>👀 Profile Views</h2></td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=anushi13prsnl&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"/>
+    <td style="text-align: center; width: 50%;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=anushi13prsnl&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"
+           style="max-width: 100%;"/>
     </td>
-    <td align="center">
+    <td style="text-align: center; width: 50%;">
       <img src="https://komarev.com/ghpvc/?username=anushi13prsnl&color=blue&style=for-the-badge" 
            style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); padding: 5px;"/>
     </td>
   </tr>
 </table>
+
 
 
 
